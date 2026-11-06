@@ -1,0 +1,13 @@
+BALADA FORROZEIRA V19 — BASE DO PAINEL
+
+O visual da V18 foi preservado. Os conteúdos foram separados em conteudo.json.
+O site lê conteudo.json quando hospedado por HTTP(S). Ao abrir index.html direto do disco, mostra o conteúdo padrão da V18.
+
+PAINEL: /admin/ usa Decap CMS. NÃO está autenticado nem pronto para login até configurar GitHub OAuth.
+1. Criar ou indicar o repositório GitHub e enviar estes arquivos na raiz.
+2. Editar admin/config.yml: repo: SEU_USUARIO/SEU_REPOSITORIO e branch correta.
+3. Configurar um provedor de autenticação OAuth GitHub compatível com Decap e o endereço público. GitHub Pages sozinho NÃO fornece esse serviço. Não colocar tokens privados no HTML.
+4. Testar /admin/ com autenticação e permissões de gravação.
+5. Após publicar conteudo.json no GitHub, o site lê as alterações na próxima visita.
+
+LIMITES: Ainda falta configurar login real e publicação. Vídeos grandes no GitHub podem exceder limites de tamanho; usar hospedagem de mídia apropriada. Autoplay de áudio com som depende das restrições do navegador.

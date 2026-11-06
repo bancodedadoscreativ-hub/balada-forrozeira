@@ -1,0 +1,45 @@
+{
+  "biografia": {
+    "introducao": [
+      "A história da Balada Forrozeira começou em 2023, em Cruz das Almas, Bahia, por iniciativa da FS Music Entretenimento. Desde então, a banda vem construindo sua trajetória com a força da música nordestina, levando alegria, ritmo e energia aos palcos baianos.",
+      "Ao longo dessa caminhada, marcou presença em festas de prefeituras, cavalgadas, vaquejadas e eventos populares em diferentes cidades da Bahia."
+    ],
+    "trajetoria": "A banda passou por Cruz das Almas, São José do Itaporã, Muritiba, Sapeaçu, Castro Alves, Santa Teresinha, Conceição do Almeida, São Felipe, Vale do Jiquiriçá, Brejões e Boninal, na Chapada Diamantina, entre outras localidades da Bahia.",
+    "recomeco": [
+      "Toda história tem seus capítulos. E a Balada Forrozeira inicia agora um novo momento de sua trajetória.",
+      "Sob o comando vocal de Murilo Tosta, a banda apresenta ao público “O Recomeço”, uma nova fase que representa renovação, continuidade e novos caminhos para um projeto que nasceu com a missão de levar o forró cada vez mais longe.",
+      "Com a energia contagiante dos ritmos nordestinos, presença de palco e muita vontade de fazer a festa acontecer, a Balada Forrozeira segue escrevendo sua história, valorizando suas raízes e olhando para o futuro."
+    ]
+  },
+  "agenda": [],
+  "plataformas": [
+    {
+      "nome": "Balada Forrozeira",
+      "descricao": "Ouça a banda e acompanhe seus lançamentos no Sua Música.",
+      "url": "https://www.suamusica.com.br/bandabaladaforrozeiraofc",
+      "imagem": "assets/logo.png",
+      "chamada": "Ouvir no Sua Música",
+      "ativo": true
+    }
+  ],
+  "links": {
+    "instagram": "https://www.instagram.com/bandabaladaforrozeiraofc",
+    "tiktok": "https://www.tiktok.com/@bandabaladaforrozeira",
+    "youtube": "https://www.youtube.com/@BandaBaladaForrozeiraOficial",
+    "suamusica": "https://www.suamusica.com.br/bandabaladaforrozeiraofc",
+    "whatsapp": "https://wa.me/message/7MOROGRLNWUSE1",
+    "presskit": "https://drive.google.com/drive/folders/1hz-vd2H1KnWWH56AM93CRYc3dOshDQe-"
+  },
+  "midia": {
+    "foto_abertura": "assets/murilo-abertura.png",
+    "foto_biografia": "assets/murilo-biografia.png",
+    "foto_presskit": "assets/murilo-biografia.png",
+    "video_fundo": "assets/palco.mp4",
+    "video_youtube": "assets/palco.mp4",
+    "musica": "assets/nao-era-eu-balada.mp3",
+    "galeria": [
+      "assets/IMG_4967.jpeg",
+      "assets/IMG_4966.jpeg"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+BALADA FORROZEIRA — PUBLICAÇÃO NO GITHUB PAGES
+
+1. Envie o conteúdo desta pasta (não a pasta inteira) à raiz do repositório bancodedadoscreativ-hub/balada-forrozeira.
+2. GitHub > Settings > Pages > Build and deployment > Deploy from a branch > main / (root) > Save.
+3. Endereço esperado: https://bancodedadoscreativ-hub.github.io/balada-forrozeira/
+4. O painel /admin/ ainda NÃO tem login funcional: requer serviço de OAuth GitHub. Não publique tokens no código.
+5. O navegador pode bloquear a reprodução automática da música com som até o visitante interagir.
+
+Esta é a base V19 existente, sem refazer o design.
